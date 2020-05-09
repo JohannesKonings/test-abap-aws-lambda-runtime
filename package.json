@@ -10,9 +10,9 @@
   "author": "{{ authors }}",
   "license": "MIT",
   "devDependencies": {
-    "@abaplint/transpiler": "^0.4.0"
+    "@abaplint/transpiler": "^0.4.4"
   },
   "dependencies": {
-    "@abaplint/runtime": "^0.3.2"
+    "@abaplint/runtime": "^0.4.4"
   }
 }
